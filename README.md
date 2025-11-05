@@ -1,8 +1,11 @@
-#Test Case 1 
-##Case 1.1
-###**This Case will define the equality of a and b**
-[x] Case 1.1 pass
+# Test Case 1
+
+## Case 1.1
+### **Description:** This case verifies the equality condition between `a` and `b`.
+- [x] **Result:** Case 1.1 passed  
+
 ---
-##Case 1.2
-###**This case will define inequality of a and b**
-[] Case 1.2 failed
+
+## Case 1.2
+### **Description:** This case verifies the inequality condition between `a` and `b`.
+- [ ] **Result:** Case 1.2 failed
